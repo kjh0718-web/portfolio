@@ -37,7 +37,7 @@ PDF·코드·실행 결과물로 확인할 수 있습니다.
 - 주요 결과: 요약 행의 중복 집계를 발견해 집계 기준을 수정하고, 특정 Wafer의 결함 집계값을 9,532건에서 4,766건으로 정정함
 - 검증 관점: 실제 결함 감소와 데이터 집계 오류 수정을 구분하고, 별도 데이터에서도 분석 흐름을 재검증함
 
-[Colab 코드·결과 보기](https://drive.google.com/file/d/1Hyf3EjFJr4bRBierO0dSXzOkVWApuZn5/view?usp=sharing)
+[Colab 코드·결과 보기](Python_기반_Wafer_품질_데이터_분석_자동화.ipynb)
 
 ## 5. Lam 9600 — MATLAB 기반 이상 탐지·분석
 
@@ -60,4 +60,4 @@ PDF·코드·실행 결과물로 확인할 수 있습니다.
 - 주요 결과: 검증 데이터에서 이상 사례 11건 중 10건을 탐지하고, 정상 사례 73건 중 3건의 오탐을 확인함
 - 검증 관점: 이상 탐지 결과와 정상 데이터의 오탐을 함께 검토함
 
-[Colab 코드·결과 보기](https://colab.research.google.com/drive/1FpcYBbL8ZOrrQaricPyRJPs4MfGIXvXI?usp=sharing)
+[Colab 코드·결과 보기](01_machine_fault_detection_pipeline.ipynb)
