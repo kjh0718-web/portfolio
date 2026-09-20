@@ -10,7 +10,6 @@ PDF·코드·실행 결과물로 확인할 수 있습니다.
 | 전공 | [경희대학교 전자공학과] |
 | 졸업 | [2027.02 졸업예정] |
 | 사용 도구 | Python(pandas, matplotlib), MATLAB, Google Sheets · Apps Script, [회로 시뮬레이터명], Excel |
-| 010-6215-3931 | [daniel000718@naver.com] |
 
 ## 1. SPTA 공정실습 — 측정값 기반 조건 비교
 
